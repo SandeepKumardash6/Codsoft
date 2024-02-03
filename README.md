@@ -1,4 +1,4 @@
 # Codsoft
-This is my 1st internship repository.
+This is Codsoft project repository.
 <br>
 Author - Sandeep Kumar Dash
