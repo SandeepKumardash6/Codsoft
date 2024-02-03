@@ -1,3 +1,4 @@
+//Number Game using java code!!
 import java.util.Scanner;
 public class NumberGame{
     public int getRandN(int min,int max){
